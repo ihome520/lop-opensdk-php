@@ -3,6 +3,11 @@
 > 本仓库fork来源于：https://github.com/gangaoh/lop-opensdk-php
 > 旧版本的Laravel请使用原来的版本
 
+
+#### 安装
+```shell
+composer require ihome520/lop-opensdk-php -vvv
+```
 请求示例
 ```php
 <?php
